@@ -1,0 +1,110 @@
+    body {
+        background-color: black;
+        margin: 20px;
+        margin-bottom: 80px;
+        font-family: 'caudex';
+    }
+    
+    .container {
+        justify-content: center;
+        background-color: #eeeeee;
+        border-radius: 5px;
+        padding: 40px;
+    }
+    
+    h1 {
+        color: inherit;
+        justify-content: center;
+        display: flex;
+        font-size: 64px;
+        margin-top: 20px;
+        margin-bottom: 5px;
+        font-family: 'caudex', sans-serif;
+        letter-spacing: px;
+        word-spacing: 10px;
+        margin: 0;
+    }
+    
+    h2 {
+        justify-content: center;
+        display: flex;
+        font-size: 30px;
+        font-family: inherit;
+        font-weight: 500;
+        line-height: 1.1;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    
+    .border {
+        background-color: #d8d7d7;
+        height: 3px;
+        opacity: 30%;
+        box-shadow: 5px 3px 3px black;
+        margin-bottom: 44px;
+    }
+    
+    .intro {
+        display: flex;
+        justify-content: center;
+        padding: 0px;
+    }
+    
+    img {
+        height: 580px;
+        justify-content: center;
+        margin: 0.1em;
+        padding: 2px;
+        background-color: white;
+        border-radius: 4px;
+    }
+    
+    .text {
+        display: flex;
+        margin-left: 25px;
+        text-align: justify;
+        letter-spacing: 1px;
+        font-size: 20px;
+        line-height: 33px;
+        margin-bottom: 40px;
+    }
+    
+    h4 {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .comment {
+        display: flex;
+        justify-content: start;
+        margin-left: 20px;
+        font-weight: 600;
+        font-size: 18px;
+        margin-bottom: 0px;
+    }
+    
+    .phrase {
+        display: flex;
+        justify-content: start;
+        margin-left: 20px;
+        margin-top: 30px;
+    }
+    
+    .footer {
+        display: flex;
+        justify-content: center;
+        margin-left: 20px;
+        margin-top: 18px;
+        font-size: 22px;
+        color: white;
+        background-size: 10%;
+    }
+    
+    .fotter_Final {
+        display: flex;
+        justify-content: center;
+        margin-top: 18px;
+        font-size: 18px;
+        color: white;
+        text-decoration: none;
+    }
